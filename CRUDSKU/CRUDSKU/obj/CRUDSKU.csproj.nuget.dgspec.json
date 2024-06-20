@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Diego\\source\\repos\\CRUDSKU\\CRUDSKU\\CRUDSKU.csproj": {}
+    "C:\\Users\\manuu\\OneDrive\\Escritorio\\Programacion_5\\Prueba_1 - Prog5\\CRUDSKU\\CRUDSKU\\CRUDSKU\\CRUDSKU.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Diego\\source\\repos\\CRUDSKU\\CRUDSKU\\CRUDSKU.csproj": {
+    "C:\\Users\\manuu\\OneDrive\\Escritorio\\Programacion_5\\Prueba_1 - Prog5\\CRUDSKU\\CRUDSKU\\CRUDSKU\\CRUDSKU.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Diego\\source\\repos\\CRUDSKU\\CRUDSKU\\CRUDSKU.csproj",
+        "projectUniqueName": "C:\\Users\\manuu\\OneDrive\\Escritorio\\Programacion_5\\Prueba_1 - Prog5\\CRUDSKU\\CRUDSKU\\CRUDSKU\\CRUDSKU.csproj",
         "projectName": "CRUDSKU",
-        "projectPath": "C:\\Users\\Diego\\source\\repos\\CRUDSKU\\CRUDSKU\\CRUDSKU.csproj",
-        "packagesPath": "C:\\Users\\Diego\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Diego\\source\\repos\\CRUDSKU\\CRUDSKU\\obj\\",
+        "projectPath": "C:\\Users\\manuu\\OneDrive\\Escritorio\\Programacion_5\\Prueba_1 - Prog5\\CRUDSKU\\CRUDSKU\\CRUDSKU\\CRUDSKU.csproj",
+        "packagesPath": "C:\\Users\\manuu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\manuu\\OneDrive\\Escritorio\\Programacion_5\\Prueba_1 - Prog5\\CRUDSKU\\CRUDSKU\\CRUDSKU\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Diego\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\manuu\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -44,6 +44,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.6, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
