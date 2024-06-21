@@ -1,0 +1,32 @@
+﻿@model SKU
+
+@{
+    ViewData["Title"] = "Editar SKU";
+}
+
+<h2>Editar SKU</h2>
+
+<form asp-action="Edit">
+    <div class="form-group">
+        <label asp-for="Codigo" class="control-label"></label>
+        <input asp-for="Codigo" class="form-control" />
+        <span asp-validation-for="Codigo" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Nombre" class="control-label"></label>
+        <input asp-for="Nombre" class="form-control" />
+        <span asp-validation-for="Nombre" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Descripcion" class="control-label"></label>
+        <input asp-for="Descripcion" class="form-control" />
+        <span asp-validation-for="Descripcion" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <input type="submit" value="Guardar" class="btn btn-outline-primary" />
+    </div>
+    <div>
+        <a asp-action="Index">Volver a la lista</a>
+    </div>
+
+</form>
