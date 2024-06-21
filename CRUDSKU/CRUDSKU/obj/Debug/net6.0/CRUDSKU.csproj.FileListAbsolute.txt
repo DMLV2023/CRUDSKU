@@ -37,3 +37,42 @@ C:\Users\manuu\OneDrive\Escritorio\Programacion_5\Prueba_1 - Prog5\CRUDSKU\CRUDS
 C:\Users\manuu\OneDrive\Escritorio\Programacion_5\Prueba_1 - Prog5\CRUDSKU\CRUDSKU\CRUDSKU\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
 C:\Users\manuu\OneDrive\Escritorio\Programacion_5\Prueba_1 - Prog5\CRUDSKU\CRUDSKU\CRUDSKU\obj\Debug\net6.0\CRUDSKU.csproj.AssemblyReference.cache
 C:\Users\manuu\OneDrive\Escritorio\Programacion_5\Prueba_1 - Prog5\CRUDSKU\CRUDSKU\CRUDSKU\obj\Debug\net6.0\CRUDSKU.csproj.Up2Date
+C:\Users\Diego\Documents\GitHub\CRUDSKU\CRUDSKU\CRUDSKU\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Diego\Documents\GitHub\CRUDSKU\CRUDSKU\CRUDSKU\bin\Debug\net6.0\appsettings.json
+C:\Users\Diego\Documents\GitHub\CRUDSKU\CRUDSKU\CRUDSKU\bin\Debug\net6.0\CRUDSKU.staticwebassets.runtime.json
+C:\Users\Diego\Documents\GitHub\CRUDSKU\CRUDSKU\CRUDSKU\bin\Debug\net6.0\CRUDSKU.exe
+C:\Users\Diego\Documents\GitHub\CRUDSKU\CRUDSKU\CRUDSKU\bin\Debug\net6.0\CRUDSKU.deps.json
+C:\Users\Diego\Documents\GitHub\CRUDSKU\CRUDSKU\CRUDSKU\bin\Debug\net6.0\CRUDSKU.runtimeconfig.json
+C:\Users\Diego\Documents\GitHub\CRUDSKU\CRUDSKU\CRUDSKU\bin\Debug\net6.0\CRUDSKU.dll
+C:\Users\Diego\Documents\GitHub\CRUDSKU\CRUDSKU\CRUDSKU\bin\Debug\net6.0\CRUDSKU.pdb
+C:\Users\Diego\Documents\GitHub\CRUDSKU\CRUDSKU\CRUDSKU\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Diego\Documents\GitHub\CRUDSKU\CRUDSKU\CRUDSKU\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Diego\Documents\GitHub\CRUDSKU\CRUDSKU\CRUDSKU\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Diego\Documents\GitHub\CRUDSKU\CRUDSKU\CRUDSKU\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Diego\Documents\GitHub\CRUDSKU\CRUDSKU\CRUDSKU\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Diego\Documents\GitHub\CRUDSKU\CRUDSKU\CRUDSKU\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Diego\Documents\GitHub\CRUDSKU\CRUDSKU\CRUDSKU\obj\Debug\net6.0\CRUDSKU.csproj.AssemblyReference.cache
+C:\Users\Diego\Documents\GitHub\CRUDSKU\CRUDSKU\CRUDSKU\obj\Debug\net6.0\CRUDSKU.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego\Documents\GitHub\CRUDSKU\CRUDSKU\CRUDSKU\obj\Debug\net6.0\CRUDSKU.AssemblyInfoInputs.cache
+C:\Users\Diego\Documents\GitHub\CRUDSKU\CRUDSKU\CRUDSKU\obj\Debug\net6.0\CRUDSKU.AssemblyInfo.cs
+C:\Users\Diego\Documents\GitHub\CRUDSKU\CRUDSKU\CRUDSKU\obj\Debug\net6.0\CRUDSKU.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Documents\GitHub\CRUDSKU\CRUDSKU\CRUDSKU\obj\Debug\net6.0\CRUDSKU.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Diego\Documents\GitHub\CRUDSKU\CRUDSKU\CRUDSKU\obj\Debug\net6.0\CRUDSKU.RazorAssemblyInfo.cache
+C:\Users\Diego\Documents\GitHub\CRUDSKU\CRUDSKU\CRUDSKU\obj\Debug\net6.0\CRUDSKU.RazorAssemblyInfo.cs
+C:\Users\Diego\Documents\GitHub\CRUDSKU\CRUDSKU\CRUDSKU\obj\Debug\net6.0\CRUDSKU.sourcelink.json
+C:\Users\Diego\Documents\GitHub\CRUDSKU\CRUDSKU\CRUDSKU\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Diego\Documents\GitHub\CRUDSKU\CRUDSKU\CRUDSKU\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Diego\Documents\GitHub\CRUDSKU\CRUDSKU\CRUDSKU\obj\Debug\net6.0\staticwebassets\msbuild.CRUDSKU.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Diego\Documents\GitHub\CRUDSKU\CRUDSKU\CRUDSKU\obj\Debug\net6.0\staticwebassets\msbuild.build.CRUDSKU.props
+C:\Users\Diego\Documents\GitHub\CRUDSKU\CRUDSKU\CRUDSKU\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CRUDSKU.props
+C:\Users\Diego\Documents\GitHub\CRUDSKU\CRUDSKU\CRUDSKU\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CRUDSKU.props
+C:\Users\Diego\Documents\GitHub\CRUDSKU\CRUDSKU\CRUDSKU\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Diego\Documents\GitHub\CRUDSKU\CRUDSKU\CRUDSKU\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Diego\Documents\GitHub\CRUDSKU\CRUDSKU\CRUDSKU\obj\Debug\net6.0\scopedcss\bundle\CRUDSKU.styles.css
+C:\Users\Diego\Documents\GitHub\CRUDSKU\CRUDSKU\CRUDSKU\obj\Debug\net6.0\scopedcss\projectbundle\CRUDSKU.bundle.scp.css
+C:\Users\Diego\Documents\GitHub\CRUDSKU\CRUDSKU\CRUDSKU\obj\Debug\net6.0\CRUDSKU.csproj.Up2Date
+C:\Users\Diego\Documents\GitHub\CRUDSKU\CRUDSKU\CRUDSKU\obj\Debug\net6.0\CRUDSKU.dll
+C:\Users\Diego\Documents\GitHub\CRUDSKU\CRUDSKU\CRUDSKU\obj\Debug\net6.0\refint\CRUDSKU.dll
+C:\Users\Diego\Documents\GitHub\CRUDSKU\CRUDSKU\CRUDSKU\obj\Debug\net6.0\CRUDSKU.pdb
+C:\Users\Diego\Documents\GitHub\CRUDSKU\CRUDSKU\CRUDSKU\obj\Debug\net6.0\CRUDSKU.genruntimeconfig.cache
+C:\Users\Diego\Documents\GitHub\CRUDSKU\CRUDSKU\CRUDSKU\obj\Debug\net6.0\ref\CRUDSKU.dll

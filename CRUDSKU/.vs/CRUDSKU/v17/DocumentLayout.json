@@ -1,38 +1,54 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\manuu\\OneDrive\\Escritorio\\Programacion_5\\Prueba_1 - Prog5\\CRUDSKU\\CRUDSKU\\",
+  "WorkspaceRootPath": "C:\\Users\\Diego\\Documents\\GitHub\\CRUDSKU\\CRUDSKU\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{956789CD-07C6-4D6D-A960-0D0E9C079EFF}|CRUDSKU\\CRUDSKU.csproj|c:\\users\\manuu\\onedrive\\escritorio\\programacion_5\\prueba_1 - prog5\\crudsku\\crudsku\\crudsku\\views\\sku\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{956789CD-07C6-4D6D-A960-0D0E9C079EFF}|CRUDSKU\\CRUDSKU.csproj|solutionrelative:crudsku\\views\\sku\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{956789CD-07C6-4D6D-A960-0D0E9C079EFF}|CRUDSKU\\CRUDSKU.csproj|c:\\users\\diego\\documents\\github\\crudsku\\crudsku\\crudsku\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{956789CD-07C6-4D6D-A960-0D0E9C079EFF}|CRUDSKU\\CRUDSKU.csproj|solutionrelative:crudsku\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{956789CD-07C6-4D6D-A960-0D0E9C079EFF}|CRUDSKU\\CRUDSKU.csproj|c:\\users\\manuu\\onedrive\\escritorio\\programacion_5\\prueba_1 - prog5\\crudsku\\crudsku\\crudsku\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{956789CD-07C6-4D6D-A960-0D0E9C079EFF}|CRUDSKU\\CRUDSKU.csproj|solutionrelative:crudsku\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{956789CD-07C6-4D6D-A960-0D0E9C079EFF}|CRUDSKU\\CRUDSKU.csproj|c:\\users\\diego\\documents\\github\\crudsku\\crudsku\\crudsku\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{956789CD-07C6-4D6D-A960-0D0E9C079EFF}|CRUDSKU\\CRUDSKU.csproj|solutionrelative:crudsku\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{956789CD-07C6-4D6D-A960-0D0E9C079EFF}|CRUDSKU\\CRUDSKU.csproj|c:\\users\\manuu\\onedrive\\escritorio\\programacion_5\\prueba_1 - prog5\\crudsku\\crudsku\\crudsku\\views\\sku\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{956789CD-07C6-4D6D-A960-0D0E9C079EFF}|CRUDSKU\\CRUDSKU.csproj|solutionrelative:crudsku\\views\\sku\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{956789CD-07C6-4D6D-A960-0D0E9C079EFF}|CRUDSKU\\CRUDSKU.csproj|c:\\users\\manuu\\onedrive\\escritorio\\programacion_5\\prueba_1 - prog5\\crudsku\\crudsku\\crudsku\\views\\sku\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{956789CD-07C6-4D6D-A960-0D0E9C079EFF}|CRUDSKU\\CRUDSKU.csproj|solutionrelative:crudsku\\views\\sku\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{956789CD-07C6-4D6D-A960-0D0E9C079EFF}|CRUDSKU\\CRUDSKU.csproj|c:\\users\\manuu\\onedrive\\escritorio\\programacion_5\\prueba_1 - prog5\\crudsku\\crudsku\\crudsku\\views\\sku\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{956789CD-07C6-4D6D-A960-0D0E9C079EFF}|CRUDSKU\\CRUDSKU.csproj|solutionrelative:crudsku\\views\\sku\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{956789CD-07C6-4D6D-A960-0D0E9C079EFF}|CRUDSKU\\CRUDSKU.csproj|c:\\users\\manuu\\onedrive\\escritorio\\programacion_5\\prueba_1 - prog5\\crudsku\\crudsku\\crudsku\\data\\da_sku.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{956789CD-07C6-4D6D-A960-0D0E9C079EFF}|CRUDSKU\\CRUDSKU.csproj|c:\\users\\diego\\documents\\github\\crudsku\\crudsku\\crudsku\\data\\da_sku.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{956789CD-07C6-4D6D-A960-0D0E9C079EFF}|CRUDSKU\\CRUDSKU.csproj|solutionrelative:crudsku\\data\\da_sku.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{956789CD-07C6-4D6D-A960-0D0E9C079EFF}|CRUDSKU\\CRUDSKU.csproj|c:\\users\\manuu\\onedrive\\escritorio\\programacion_5\\prueba_1 - prog5\\crudsku\\crudsku\\crudsku\\controllers\\skucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{956789CD-07C6-4D6D-A960-0D0E9C079EFF}|CRUDSKU\\CRUDSKU.csproj|solutionrelative:crudsku\\controllers\\skucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{956789CD-07C6-4D6D-A960-0D0E9C079EFF}|CRUDSKU\\CRUDSKU.csproj|c:\\users\\diego\\documents\\github\\crudsku\\crudsku\\crudsku\\models\\sku.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{956789CD-07C6-4D6D-A960-0D0E9C079EFF}|CRUDSKU\\CRUDSKU.csproj|solutionrelative:crudsku\\models\\sku.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{956789CD-07C6-4D6D-A960-0D0E9C079EFF}|CRUDSKU\\CRUDSKU.csproj|c:\\users\\manuu\\onedrive\\escritorio\\programacion_5\\prueba_1 - prog5\\crudsku\\crudsku\\crudsku\\models\\sku.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{956789CD-07C6-4D6D-A960-0D0E9C079EFF}|CRUDSKU\\CRUDSKU.csproj|solutionrelative:crudsku\\models\\sku.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{956789CD-07C6-4D6D-A960-0D0E9C079EFF}|CRUDSKU\\CRUDSKU.csproj|c:\\users\\diego\\documents\\github\\crudsku\\crudsku\\crudsku\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{956789CD-07C6-4D6D-A960-0D0E9C079EFF}|CRUDSKU\\CRUDSKU.csproj|solutionrelative:crudsku\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{956789CD-07C6-4D6D-A960-0D0E9C079EFF}|CRUDSKU\\CRUDSKU.csproj|c:\\users\\diego\\documents\\github\\crudsku\\crudsku\\crudsku\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{956789CD-07C6-4D6D-A960-0D0E9C079EFF}|CRUDSKU\\CRUDSKU.csproj|solutionrelative:crudsku\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{956789CD-07C6-4D6D-A960-0D0E9C079EFF}|CRUDSKU\\CRUDSKU.csproj|c:\\users\\diego\\documents\\github\\crudsku\\crudsku\\crudsku\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{956789CD-07C6-4D6D-A960-0D0E9C079EFF}|CRUDSKU\\CRUDSKU.csproj|solutionrelative:crudsku\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{956789CD-07C6-4D6D-A960-0D0E9C079EFF}|CRUDSKU\\CRUDSKU.csproj|c:\\users\\diego\\documents\\github\\crudsku\\crudsku\\crudsku\\views\\sku\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{956789CD-07C6-4D6D-A960-0D0E9C079EFF}|CRUDSKU\\CRUDSKU.csproj|solutionrelative:crudsku\\views\\sku\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{956789CD-07C6-4D6D-A960-0D0E9C079EFF}|CRUDSKU\\CRUDSKU.csproj|c:\\users\\diego\\documents\\github\\crudsku\\crudsku\\crudsku\\views\\sku\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{956789CD-07C6-4D6D-A960-0D0E9C079EFF}|CRUDSKU\\CRUDSKU.csproj|solutionrelative:crudsku\\views\\sku\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{956789CD-07C6-4D6D-A960-0D0E9C079EFF}|CRUDSKU\\CRUDSKU.csproj|c:\\users\\diego\\documents\\github\\crudsku\\crudsku\\crudsku\\views\\sku\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{956789CD-07C6-4D6D-A960-0D0E9C079EFF}|CRUDSKU\\CRUDSKU.csproj|solutionrelative:crudsku\\views\\sku\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{956789CD-07C6-4D6D-A960-0D0E9C079EFF}|CRUDSKU\\CRUDSKU.csproj|c:\\users\\diego\\documents\\github\\crudsku\\crudsku\\crudsku\\views\\sku\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{956789CD-07C6-4D6D-A960-0D0E9C079EFF}|CRUDSKU\\CRUDSKU.csproj|solutionrelative:crudsku\\views\\sku\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{956789CD-07C6-4D6D-A960-0D0E9C079EFF}|CRUDSKU\\CRUDSKU.csproj|c:\\users\\diego\\documents\\github\\crudsku\\crudsku\\crudsku\\controllers\\skucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{956789CD-07C6-4D6D-A960-0D0E9C079EFF}|CRUDSKU\\CRUDSKU.csproj|solutionrelative:crudsku\\controllers\\skucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,46 +58,67 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 7,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Diego\\Documents\\GitHub\\CRUDSKU\\CRUDSKU\\CRUDSKU\\Program.cs",
+              "RelativeDocumentMoniker": "CRUDSKU\\Program.cs",
+              "ToolTip": "C:\\Users\\Diego\\Documents\\GitHub\\CRUDSKU\\CRUDSKU\\CRUDSKU\\Program.cs",
+              "RelativeToolTip": "CRUDSKU\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T14:21:16.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Diego\\Documents\\GitHub\\CRUDSKU\\CRUDSKU\\CRUDSKU\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CRUDSKU\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Diego\\Documents\\GitHub\\CRUDSKU\\CRUDSKU\\CRUDSKU\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CRUDSKU\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T11:51:29.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\manuu\\OneDrive\\Escritorio\\Programacion_5\\Prueba_1 - Prog5\\CRUDSKU\\CRUDSKU\\CRUDSKU\\wwwroot\\css\\site.css",
+              "DocumentMoniker": "C:\\Users\\Diego\\Documents\\GitHub\\CRUDSKU\\CRUDSKU\\CRUDSKU\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "CRUDSKU\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\manuu\\OneDrive\\Escritorio\\Programacion_5\\Prueba_1 - Prog5\\CRUDSKU\\CRUDSKU\\CRUDSKU\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Diego\\Documents\\GitHub\\CRUDSKU\\CRUDSKU\\CRUDSKU\\wwwroot\\css\\site.css",
               "RelativeToolTip": "CRUDSKU\\wwwroot\\css\\site.css",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAABoAAAAFAAAA",
+              "ViewState": "AQIAACkAAAAAAAAAAAAAADQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2024-06-21T03:28:56.823Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\manuu\\OneDrive\\Escritorio\\Programacion_5\\Prueba_1 - Prog5\\CRUDSKU\\CRUDSKU\\CRUDSKU\\Views\\SKU\\Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Diego\\Documents\\GitHub\\CRUDSKU\\CRUDSKU\\CRUDSKU\\Views\\SKU\\Delete.cshtml",
               "RelativeDocumentMoniker": "CRUDSKU\\Views\\SKU\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\manuu\\OneDrive\\Escritorio\\Programacion_5\\Prueba_1 - Prog5\\CRUDSKU\\CRUDSKU\\CRUDSKU\\Views\\SKU\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Diego\\Documents\\GitHub\\CRUDSKU\\CRUDSKU\\CRUDSKU\\Views\\SKU\\Delete.cshtml",
               "RelativeToolTip": "CRUDSKU\\Views\\SKU\\Delete.cshtml",
               "ViewState": "AQIAAAEAAAAAAAAAAAAmwB4AAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-21T03:08:01.131Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-21T03:08:01.131Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 9,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\manuu\\OneDrive\\Escritorio\\Programacion_5\\Prueba_1 - Prog5\\CRUDSKU\\CRUDSKU\\CRUDSKU\\Views\\SKU\\Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Diego\\Documents\\GitHub\\CRUDSKU\\CRUDSKU\\CRUDSKU\\Views\\SKU\\Create.cshtml",
               "RelativeDocumentMoniker": "CRUDSKU\\Views\\SKU\\Create.cshtml",
-              "ToolTip": "C:\\Users\\manuu\\OneDrive\\Escritorio\\Programacion_5\\Prueba_1 - Prog5\\CRUDSKU\\CRUDSKU\\CRUDSKU\\Views\\SKU\\Create.cshtml*",
-              "RelativeToolTip": "CRUDSKU\\Views\\SKU\\Create.cshtml*",
+              "ToolTip": "C:\\Users\\Diego\\Documents\\GitHub\\CRUDSKU\\CRUDSKU\\CRUDSKU\\Views\\SKU\\Create.cshtml",
+              "RelativeToolTip": "CRUDSKU\\Views\\SKU\\Create.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-06-21T02:14:06.273Z",
@@ -89,63 +126,88 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\manuu\\OneDrive\\Escritorio\\Programacion_5\\Prueba_1 - Prog5\\CRUDSKU\\CRUDSKU\\CRUDSKU\\Views\\SKU\\Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Diego\\Documents\\GitHub\\CRUDSKU\\CRUDSKU\\CRUDSKU\\Views\\SKU\\Edit.cshtml",
               "RelativeDocumentMoniker": "CRUDSKU\\Views\\SKU\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\manuu\\OneDrive\\Escritorio\\Programacion_5\\Prueba_1 - Prog5\\CRUDSKU\\CRUDSKU\\CRUDSKU\\Views\\SKU\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Diego\\Documents\\GitHub\\CRUDSKU\\CRUDSKU\\CRUDSKU\\Views\\SKU\\Edit.cshtml",
               "RelativeToolTip": "CRUDSKU\\Views\\SKU\\Edit.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAKAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAuwCAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-06-20T19:35:59.5Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\manuu\\OneDrive\\Escritorio\\Programacion_5\\Prueba_1 - Prog5\\CRUDSKU\\CRUDSKU\\CRUDSKU\\Views\\SKU\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Diego\\Documents\\GitHub\\CRUDSKU\\CRUDSKU\\CRUDSKU\\Views\\SKU\\Index.cshtml",
               "RelativeDocumentMoniker": "CRUDSKU\\Views\\SKU\\Index.cshtml",
-              "ToolTip": "C:\\Users\\manuu\\OneDrive\\Escritorio\\Programacion_5\\Prueba_1 - Prog5\\CRUDSKU\\CRUDSKU\\CRUDSKU\\Views\\SKU\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Diego\\Documents\\GitHub\\CRUDSKU\\CRUDSKU\\CRUDSKU\\Views\\SKU\\Index.cshtml",
               "RelativeToolTip": "CRUDSKU\\Views\\SKU\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAMAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-06-20T01:41:59.849Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Diego\\Documents\\GitHub\\CRUDSKU\\CRUDSKU\\CRUDSKU\\appsettings.json",
+              "RelativeDocumentMoniker": "CRUDSKU\\appsettings.json",
+              "ToolTip": "C:\\Users\\Diego\\Documents\\GitHub\\CRUDSKU\\CRUDSKU\\CRUDSKU\\appsettings.json",
+              "RelativeToolTip": "CRUDSKU\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-21T14:00:29.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Diego\\Documents\\GitHub\\CRUDSKU\\CRUDSKU\\CRUDSKU\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CRUDSKU\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Diego\\Documents\\GitHub\\CRUDSKU\\CRUDSKU\\CRUDSKU\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CRUDSKU\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T12:16:45.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "DA_SKU.cs",
-              "DocumentMoniker": "C:\\Users\\manuu\\OneDrive\\Escritorio\\Programacion_5\\Prueba_1 - Prog5\\CRUDSKU\\CRUDSKU\\CRUDSKU\\Data\\DA_SKU.cs",
+              "DocumentMoniker": "C:\\Users\\Diego\\Documents\\GitHub\\CRUDSKU\\CRUDSKU\\CRUDSKU\\Data\\DA_SKU.cs",
               "RelativeDocumentMoniker": "CRUDSKU\\Data\\DA_SKU.cs",
-              "ToolTip": "C:\\Users\\manuu\\OneDrive\\Escritorio\\Programacion_5\\Prueba_1 - Prog5\\CRUDSKU\\CRUDSKU\\CRUDSKU\\Data\\DA_SKU.cs",
+              "ToolTip": "C:\\Users\\Diego\\Documents\\GitHub\\CRUDSKU\\CRUDSKU\\CRUDSKU\\Data\\DA_SKU.cs",
               "RelativeToolTip": "CRUDSKU\\Data\\DA_SKU.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAAADAAAA",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAmwFIAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-20T01:01:19.595Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "SKUController.cs",
-              "DocumentMoniker": "C:\\Users\\manuu\\OneDrive\\Escritorio\\Programacion_5\\Prueba_1 - Prog5\\CRUDSKU\\CRUDSKU\\CRUDSKU\\Controllers\\SKUController.cs",
+              "DocumentMoniker": "C:\\Users\\Diego\\Documents\\GitHub\\CRUDSKU\\CRUDSKU\\CRUDSKU\\Controllers\\SKUController.cs",
               "RelativeDocumentMoniker": "CRUDSKU\\Controllers\\SKUController.cs",
-              "ToolTip": "C:\\Users\\manuu\\OneDrive\\Escritorio\\Programacion_5\\Prueba_1 - Prog5\\CRUDSKU\\CRUDSKU\\CRUDSKU\\Controllers\\SKUController.cs",
+              "ToolTip": "C:\\Users\\Diego\\Documents\\GitHub\\CRUDSKU\\CRUDSKU\\CRUDSKU\\Controllers\\SKUController.cs",
               "RelativeToolTip": "CRUDSKU\\Controllers\\SKUController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAIMAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T00:51:10.153Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-20T00:51:10.153Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "SKU.cs",
-              "DocumentMoniker": "C:\\Users\\manuu\\OneDrive\\Escritorio\\Programacion_5\\Prueba_1 - Prog5\\CRUDSKU\\CRUDSKU\\CRUDSKU\\Models\\SKU.cs",
+              "DocumentMoniker": "C:\\Users\\Diego\\Documents\\GitHub\\CRUDSKU\\CRUDSKU\\CRUDSKU\\Models\\SKU.cs",
               "RelativeDocumentMoniker": "CRUDSKU\\Models\\SKU.cs",
-              "ToolTip": "C:\\Users\\manuu\\OneDrive\\Escritorio\\Programacion_5\\Prueba_1 - Prog5\\CRUDSKU\\CRUDSKU\\CRUDSKU\\Models\\SKU.cs",
+              "ToolTip": "C:\\Users\\Diego\\Documents\\GitHub\\CRUDSKU\\CRUDSKU\\CRUDSKU\\Models\\SKU.cs",
               "RelativeToolTip": "CRUDSKU\\Models\\SKU.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
