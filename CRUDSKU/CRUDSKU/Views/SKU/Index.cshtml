@@ -4,11 +4,17 @@
     ViewData["Title"] = "SKUs";
 }
 
-<div class="text-center my-3">
-    <a asp-controller="SKU" asp-action="Create" class="btn btn-outline-success">
-        Crear Nuevo <i class="bi bi-plus-square"></i>
+<head>
+    <link rel="stylesheet" href="~/css/site.css" />
+</head>
+
+<div class="text-float-left">
+    <a asp-controller="SKU" asp-action="Create" class="btn btn-outline-success blink-animation">
+        Crear Nuevo Producto<i class="bi bi-plus-square blink-animation"></i>
     </a>
 </div>
+
+<div class="clearfix"></div>
 
 <table class="table">
     <thead>

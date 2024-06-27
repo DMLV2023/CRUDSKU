@@ -7,14 +7,6 @@
       "RelativeMoniker": "D:0:0:{956789CD-07C6-4D6D-A960-0D0E9C079EFF}|CRUDSKU\\CRUDSKU.csproj|solutionrelative:crudsku\\views\\sku\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{956789CD-07C6-4D6D-A960-0D0E9C079EFF}|CRUDSKU\\CRUDSKU.csproj|c:\\users\\manuu\\onedrive\\escritorio\\programacion_5\\prueba_1 - prog5\\crudsku\\crudsku\\crudsku\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{956789CD-07C6-4D6D-A960-0D0E9C079EFF}|CRUDSKU\\CRUDSKU.csproj|solutionrelative:crudsku\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{956789CD-07C6-4D6D-A960-0D0E9C079EFF}|CRUDSKU\\CRUDSKU.csproj|c:\\users\\manuu\\onedrive\\escritorio\\programacion_5\\prueba_1 - prog5\\crudsku\\crudsku\\crudsku\\views\\sku\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{956789CD-07C6-4D6D-A960-0D0E9C079EFF}|CRUDSKU\\CRUDSKU.csproj|solutionrelative:crudsku\\views\\sku\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{956789CD-07C6-4D6D-A960-0D0E9C079EFF}|CRUDSKU\\CRUDSKU.csproj|c:\\users\\manuu\\onedrive\\escritorio\\programacion_5\\prueba_1 - prog5\\crudsku\\crudsku\\crudsku\\views\\sku\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{956789CD-07C6-4D6D-A960-0D0E9C079EFF}|CRUDSKU\\CRUDSKU.csproj|solutionrelative:crudsku\\views\\sku\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -27,12 +19,12 @@
       "RelativeMoniker": "D:0:0:{956789CD-07C6-4D6D-A960-0D0E9C079EFF}|CRUDSKU\\CRUDSKU.csproj|solutionrelative:crudsku\\data\\da_sku.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{956789CD-07C6-4D6D-A960-0D0E9C079EFF}|CRUDSKU\\CRUDSKU.csproj|c:\\users\\manuu\\onedrive\\escritorio\\programacion_5\\prueba_1 - prog5\\crudsku\\crudsku\\crudsku\\controllers\\skucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{956789CD-07C6-4D6D-A960-0D0E9C079EFF}|CRUDSKU\\CRUDSKU.csproj|solutionrelative:crudsku\\controllers\\skucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{956789CD-07C6-4D6D-A960-0D0E9C079EFF}|CRUDSKU\\CRUDSKU.csproj|c:\\users\\manuu\\onedrive\\escritorio\\programacion_5\\prueba_1 - prog5\\crudsku\\crudsku\\crudsku\\models\\sku.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{956789CD-07C6-4D6D-A960-0D0E9C079EFF}|CRUDSKU\\CRUDSKU.csproj|solutionrelative:crudsku\\models\\sku.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{956789CD-07C6-4D6D-A960-0D0E9C079EFF}|CRUDSKU\\CRUDSKU.csproj|c:\\users\\manuu\\onedrive\\escritorio\\programacion_5\\prueba_1 - prog5\\crudsku\\crudsku\\crudsku\\controllers\\skucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{956789CD-07C6-4D6D-A960-0D0E9C079EFF}|CRUDSKU\\CRUDSKU.csproj|solutionrelative:crudsku\\controllers\\skucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,46 +42,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\manuu\\OneDrive\\Escritorio\\Programacion_5\\Prueba_1 - Prog5\\CRUDSKU\\CRUDSKU\\CRUDSKU\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "CRUDSKU\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\manuu\\OneDrive\\Escritorio\\Programacion_5\\Prueba_1 - Prog5\\CRUDSKU\\CRUDSKU\\CRUDSKU\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "CRUDSKU\\wwwroot\\css\\site.css",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAABoAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-06-21T03:28:56.823Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\manuu\\OneDrive\\Escritorio\\Programacion_5\\Prueba_1 - Prog5\\CRUDSKU\\CRUDSKU\\CRUDSKU\\Views\\SKU\\Delete.cshtml",
-              "RelativeDocumentMoniker": "CRUDSKU\\Views\\SKU\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\manuu\\OneDrive\\Escritorio\\Programacion_5\\Prueba_1 - Prog5\\CRUDSKU\\CRUDSKU\\CRUDSKU\\Views\\SKU\\Delete.cshtml",
-              "RelativeToolTip": "CRUDSKU\\Views\\SKU\\Delete.cshtml",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAmwB4AAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-21T03:08:01.131Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\manuu\\OneDrive\\Escritorio\\Programacion_5\\Prueba_1 - Prog5\\CRUDSKU\\CRUDSKU\\CRUDSKU\\Views\\SKU\\Create.cshtml",
               "RelativeDocumentMoniker": "CRUDSKU\\Views\\SKU\\Create.cshtml",
-              "ToolTip": "C:\\Users\\manuu\\OneDrive\\Escritorio\\Programacion_5\\Prueba_1 - Prog5\\CRUDSKU\\CRUDSKU\\CRUDSKU\\Views\\SKU\\Create.cshtml*",
-              "RelativeToolTip": "CRUDSKU\\Views\\SKU\\Create.cshtml*",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAMAAAA",
+              "ToolTip": "C:\\Users\\manuu\\OneDrive\\Escritorio\\Programacion_5\\Prueba_1 - Prog5\\CRUDSKU\\CRUDSKU\\CRUDSKU\\Views\\SKU\\Create.cshtml",
+              "RelativeToolTip": "CRUDSKU\\Views\\SKU\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-06-21T02:14:06.273Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\manuu\\OneDrive\\Escritorio\\Programacion_5\\Prueba_1 - Prog5\\CRUDSKU\\CRUDSKU\\CRUDSKU\\Views\\SKU\\Edit.cshtml",
               "RelativeDocumentMoniker": "CRUDSKU\\Views\\SKU\\Edit.cshtml",
@@ -102,46 +68,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\manuu\\OneDrive\\Escritorio\\Programacion_5\\Prueba_1 - Prog5\\CRUDSKU\\CRUDSKU\\CRUDSKU\\Views\\SKU\\Index.cshtml",
               "RelativeDocumentMoniker": "CRUDSKU\\Views\\SKU\\Index.cshtml",
-              "ToolTip": "C:\\Users\\manuu\\OneDrive\\Escritorio\\Programacion_5\\Prueba_1 - Prog5\\CRUDSKU\\CRUDSKU\\CRUDSKU\\Views\\SKU\\Index.cshtml",
-              "RelativeToolTip": "CRUDSKU\\Views\\SKU\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAMAAAA",
+              "ToolTip": "C:\\Users\\manuu\\OneDrive\\Escritorio\\Programacion_5\\Prueba_1 - Prog5\\CRUDSKU\\CRUDSKU\\CRUDSKU\\Views\\SKU\\Index.cshtml*",
+              "RelativeToolTip": "CRUDSKU\\Views\\SKU\\Index.cshtml*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-06-20T01:41:59.849Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "DA_SKU.cs",
               "DocumentMoniker": "C:\\Users\\manuu\\OneDrive\\Escritorio\\Programacion_5\\Prueba_1 - Prog5\\CRUDSKU\\CRUDSKU\\CRUDSKU\\Data\\DA_SKU.cs",
               "RelativeDocumentMoniker": "CRUDSKU\\Data\\DA_SKU.cs",
               "ToolTip": "C:\\Users\\manuu\\OneDrive\\Escritorio\\Programacion_5\\Prueba_1 - Prog5\\CRUDSKU\\CRUDSKU\\CRUDSKU\\Data\\DA_SKU.cs",
               "RelativeToolTip": "CRUDSKU\\Data\\DA_SKU.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAAADAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFYAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-20T01:01:19.595Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "SKUController.cs",
               "DocumentMoniker": "C:\\Users\\manuu\\OneDrive\\Escritorio\\Programacion_5\\Prueba_1 - Prog5\\CRUDSKU\\CRUDSKU\\CRUDSKU\\Controllers\\SKUController.cs",
               "RelativeDocumentMoniker": "CRUDSKU\\Controllers\\SKUController.cs",
-              "ToolTip": "C:\\Users\\manuu\\OneDrive\\Escritorio\\Programacion_5\\Prueba_1 - Prog5\\CRUDSKU\\CRUDSKU\\CRUDSKU\\Controllers\\SKUController.cs",
-              "RelativeToolTip": "CRUDSKU\\Controllers\\SKUController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIMAAAABAAAA",
+              "ToolTip": "C:\\Users\\manuu\\OneDrive\\Escritorio\\Programacion_5\\Prueba_1 - Prog5\\CRUDSKU\\CRUDSKU\\CRUDSKU\\Controllers\\SKUController.cs*",
+              "RelativeToolTip": "CRUDSKU\\Controllers\\SKUController.cs*",
+              "ViewState": "AQIAAHsAAAAAAAAAAAAAAIkAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-20T00:51:10.153Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "SKU.cs",
               "DocumentMoniker": "C:\\Users\\manuu\\OneDrive\\Escritorio\\Programacion_5\\Prueba_1 - Prog5\\CRUDSKU\\CRUDSKU\\CRUDSKU\\Models\\SKU.cs",
               "RelativeDocumentMoniker": "CRUDSKU\\Models\\SKU.cs",

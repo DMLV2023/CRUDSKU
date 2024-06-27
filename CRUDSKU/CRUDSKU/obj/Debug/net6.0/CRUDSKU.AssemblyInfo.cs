@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CRUDSKU")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+045a8cf072070e76bfbe17a1be569cd7059c0971")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f86cee490ad87d2503004ff53af15d8f33a9be73")]
 [assembly: System.Reflection.AssemblyProductAttribute("CRUDSKU")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CRUDSKU")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -2,6 +2,8 @@
 using CRUDSKU.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Data;
+using System.Data.SqlClient;
+
 
 namespace CRUDSKU.Controllers
 {
@@ -128,6 +130,10 @@ namespace CRUDSKU.Controllers
 
 			return RedirectToAction(nameof(Index));
 		}
-	}
-}
 
+        
+
+        
+    }
+}
+    
