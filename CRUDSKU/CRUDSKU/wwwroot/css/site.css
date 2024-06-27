@@ -31,7 +31,22 @@ body {
     }
 }
 
-/* Aplicaci髇 de la animaci髇 al bot髇 */
+/* Aplicaci贸n de la animaci贸n al bot贸n */
 .blink-animation {
-    animation: blink 1s infinite; /* La animaci髇 dura 1 segundo y se repite infinitamente */
+    animation: blink 1s infinite; /* La animaci贸n dura 1 segundo y se repite infinitamente */
+}
+
+
+/* Configuraci贸n imagen de fondo en pagina de inicio*/
+body {
+    background: url('~/images/conurbano.png') no-repeat center center fixed;
+    background-size: cover;
+    /* Opcional: Ajusta la opacidad del fondo mediante un color semitransparente */
+    background-color: rgba(255, 255, 255, 0.8); /* Fondo blanco con 80% de opacidad */
+}
+
+.container {
+    background-color: rgba(255, 255, 255, 0.8); /* Fondo blanco con 80% de opacidad */
+    padding: 20px;
+    border-radius: 10px;
 }
